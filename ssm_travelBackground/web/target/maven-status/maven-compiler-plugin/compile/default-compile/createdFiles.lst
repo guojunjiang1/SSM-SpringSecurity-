@@ -1,0 +1,7 @@
+guo\controller\LogAop.class
+guo\controller\UserController.class
+guo\controller\RoleController.class
+guo\controller\ProductController.class
+guo\controller\PermissionController.class
+guo\controller\OrdersController.class
+guo\controller\SysLogController.class

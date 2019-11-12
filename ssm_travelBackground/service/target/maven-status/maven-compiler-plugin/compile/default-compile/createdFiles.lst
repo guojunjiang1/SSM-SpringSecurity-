@@ -1,0 +1,12 @@
+guo\service\impl\SysLogServiceImpl.class
+guo\service\impl\RoleServiceImpl.class
+guo\service\impl\UserServiceImpl.class
+guo\service\PermissionService.class
+guo\service\impl\PermissionServiceImpl.class
+guo\service\UserService.class
+guo\service\RoleService.class
+guo\service\impl\ProductServiceImpl.class
+guo\service\OrdersService.class
+guo\service\ProductService.class
+guo\service\impl\OrdersServiceImpl.class
+guo\service\SysLogService.class

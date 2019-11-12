@@ -1,0 +1,8 @@
+daomain\Member.class
+daomain\Orders.class
+daomain\SysLog.class
+daomain\Permission.class
+daomain\Role.class
+daomain\Traveller.class
+daomain\Product.class
+daomain\UserInfo.class

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ec9766-147d-4103-b664-95927b1cc379" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/src/main/webapp/pages/header.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\mavenjar" />
+        <option name="mavenHome" value="F:/maven" />
+        <option name="userSettingsFile" value="F:\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T8ma1od7Cq6BCKgRROyxbUcmqm" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/src/main/webapp/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2400589" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="daomain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\web\src\main\webapp\pages" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\daomain\src\main\java\daomain" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\web\src\main\webapp" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\web\src\main\webapp\img" />
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\web\src\main\webapp\WEB-INF\pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guo.dao" />
+      <recent name="guo.service.impl" />
+      <recent name="guo.service" />
+      <recent name="guo.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA\IntelliJ IDEA 2019.1.3\ssm_travelBackground\web\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.ssm_travelBackground [tomcat7:run]">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guo.utils.BCryptPasswordEncoderUtils" />
+      <module name="utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat:7" />
+                <option value="site:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ssm_travelBackground [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ec9766-147d-4103-b664-95927b1cc379" name="Default Changelist" comment="" />
+      <created>1572850156776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572850156776</updated>
+      <workItem from="1572850159759" duration="340000" />
+      <workItem from="1572850525590" duration="114000" />
+      <workItem from="1572850684296" duration="4187000" />
+      <workItem from="1572855203110" duration="1577000" />
+      <workItem from="1572858264093" duration="167000" />
+      <workItem from="1572858458512" duration="186000" />
+      <workItem from="1572858659164" duration="936000" />
+      <workItem from="1572859641406" duration="364000" />
+      <workItem from="1572860291849" duration="1928000" />
+      <workItem from="1572862249540" duration="271000" />
+      <workItem from="1572862574935" duration="507000" />
+      <workItem from="1572868174860" duration="1590000" />
+      <workItem from="1572869848656" duration="2197000" />
+      <workItem from="1572872097427" duration="4000" />
+      <workItem from="1572872133250" duration="922000" />
+      <workItem from="1572873652231" duration="45000" />
+      <workItem from="1572873749483" duration="634000" />
+      <workItem from="1572874412312" duration="2402000" />
+      <workItem from="1572876931209" duration="146000" />
+      <workItem from="1572877125172" duration="173000" />
+      <workItem from="1572914908573" duration="30000" />
+      <workItem from="1572915196796" duration="1985000" />
+      <workItem from="1572917228066" duration="1257000" />
+      <workItem from="1572918673374" duration="1905000" />
+      <workItem from="1572920724934" duration="275000" />
+      <workItem from="1572921029253" duration="189000" />
+      <workItem from="1572921237031" duration="476000" />
+      <workItem from="1572921750695" duration="907000" />
+      <workItem from="1572922872386" duration="186000" />
+      <workItem from="1572923235282" duration="522000" />
+      <workItem from="1572923789643" duration="1399000" />
+      <workItem from="1572925834687" duration="418000" />
+      <workItem from="1572926276892" duration="1222000" />
+      <workItem from="1572927629935" duration="1253000" />
+      <workItem from="1572928929643" duration="1118000" />
+      <workItem from="1572930167931" duration="368000" />
+      <workItem from="1572930574273" duration="1092000" />
+      <workItem from="1572964610862" duration="642000" />
+      <workItem from="1572998460621" duration="2704000" />
+      <workItem from="1573002150517" duration="3341000" />
+      <workItem from="1573021693052" duration="73000" />
+      <workItem from="1573022037515" duration="468000" />
+      <workItem from="1573022602485" duration="1067000" />
+      <workItem from="1573024255573" duration="1490000" />
+      <workItem from="1573025994414" duration="1389000" />
+      <workItem from="1573040977110" duration="1876000" />
+      <workItem from="1573044427154" duration="189000" />
+      <workItem from="1573044671962" duration="1128000" />
+      <workItem from="1573045884344" duration="78000" />
+      <workItem from="1573046025132" duration="147000" />
+      <workItem from="1573046266181" duration="305000" />
+      <workItem from="1573046685700" duration="1134000" />
+      <workItem from="1573048032127" duration="1926000" />
+      <workItem from="1573053180118" duration="100000" />
+      <workItem from="1573089063900" duration="1684000" />
+      <workItem from="1573091348849" duration="169000" />
+      <workItem from="1573093455352" duration="8000" />
+      <workItem from="1573093625636" duration="24000" />
+      <workItem from="1573106822541" duration="2725000" />
+      <workItem from="1573117284781" duration="11401000" />
+      <workItem from="1573133179025" duration="671000" />
+      <workItem from="1573171609662" duration="4962000" />
+      <workItem from="1573177386596" duration="3373000" />
+      <workItem from="1573199682435" duration="794000" />
+      <workItem from="1573200543304" duration="5973000" />
+      <workItem from="1573271395622" duration="6820000" />
+      <workItem from="1573278822645" duration="7555000" />
+      <workItem from="1573364404973" duration="4531000" />
+      <workItem from="1573430530513" duration="2328000" />
+      <workItem from="1573433511087" duration="6031000" />
+      <workItem from="1573450916794" duration="701000" />
+      <workItem from="1573454864787" duration="378000" />
+      <workItem from="1573456333717" duration="37000" />
+      <workItem from="1573456394949" duration="128000" />
+      <workItem from="1573456539207" duration="1293000" />
+      <workItem from="1573457975157" duration="1800000" />
+      <workItem from="1573478345544" duration="7968000" />
+      <workItem from="1573518884495" duration="3592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

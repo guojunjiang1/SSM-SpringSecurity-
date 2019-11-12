@@ -1,0 +1,8 @@
+guo\dao\OrdersDao.class
+guo\dao\RoleDao.class
+guo\dao\SysLogDao.class
+guo\dao\PermissinoDao.class
+guo\dao\ProductDao.class
+guo\dao\TravellerDao.class
+guo\dao\UserDao.class
+guo\dao\MemberDao.class
